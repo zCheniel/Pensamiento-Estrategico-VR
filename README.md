@@ -1,0 +1,1 @@
+# Pensamiento-Estrategico-VR
