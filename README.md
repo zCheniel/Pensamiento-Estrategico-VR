@@ -5,14 +5,12 @@ La aplicación de realidad virtual propuesta busca revolucionar la forma en que 
 <br>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Definición del concepto de la experiencia.</li>
+  <li>Implementación de mecánicas.</li>
+  <li>Creación de entornos.</li>
+  <li>Implementación de los gráficos.</li>
+  <li>Implementación de música y efectos de sonido.</li>
+  <li>Pruebas.</li>
 </ul>
 
 <br>
