@@ -32,3 +32,8 @@ Recuerda, el carro es deportivo, tiene el puesto del chofer y solo un puesto mas
 <br>
 <b>Imagenes:</b>
 <br><br>
+![Inicio](https://github.com/user-attachments/assets/c351a758-3504-4ca5-a98f-697d7cb40ffe)
+![Eleccion](https://github.com/user-attachments/assets/82016bdb-d4e1-4e47-ba54-8098c7da78b7)
+![jefe](https://github.com/user-attachments/assets/70796fe5-f8bc-4dad-bf67-4da98d678a8c)
+![ChicoYChica](https://github.com/user-attachments/assets/d60021c6-72a0-4723-9b0f-b93c3b649323)
+![Abuelo](https://github.com/user-attachments/assets/821fbe5c-a2e3-48f3-8992-49ab46249399)
